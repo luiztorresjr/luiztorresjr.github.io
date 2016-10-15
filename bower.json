@@ -1,0 +1,36 @@
+{
+  "name": "luiztorresjr.github.io",
+  "description": "this project is a web site of my resume at the Git for apresent my knowledge and my bio",
+  "main": "index.js",
+  "authors": [
+    "Luiz Torres Junior"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "jquery",
+    "java",
+    "android",
+    "sql",
+    "php",
+    "git",
+    "wordpress",
+    "bootstrap",
+    "linux"
+  ],
+  "homepage": "http://luiztorresjr.github.io/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}

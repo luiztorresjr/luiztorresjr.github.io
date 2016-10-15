@@ -1,0 +1,40 @@
+{
+  "name": "luiztorresjr.github.io",
+  "version": "1.0.0",
+  "description": "this project is a web site of my resume at the Git for apresent my knowledge and my bio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luiztorresjr/luiztorresjr.github.io.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "javascript",
+    "jquery",
+    "java",
+    "android",
+    "sql",
+    "php",
+    "git",
+    "wordpress",
+    "bootstrap",
+    "linux"
+  ],
+  "author": "Luiz Torres Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luiztorresjr/luiztorresjr.github.io/issues"
+  },
+  "homepage": "https://github.com/luiztorresjr/luiztorresjr.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^2.1.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
