@@ -1,3 +1,33 @@
+# Packages #
+*.7z
+*.dmg
+*.dgz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
 
-bower_components
-node_modules
+# Logs #
+*.log
+*.sql
+*.sqlite
+
+# Files of OS #
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Thumbs.db
+.Spotlight-V100
+ehthumbs.db
+
+
+# Systems Build #
+node_modules/
+bower_components/
+.sass-cache
+*.css.map
+build/
+dist/
+
