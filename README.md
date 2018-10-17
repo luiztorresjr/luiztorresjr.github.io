@@ -1,2 +1,10 @@
 # luiztorresjr.github.io
-This repository is a resume about my, I am develop this site using html, css, javascript, bootstrap, nodeJs, bower and Gulp.
+Esse repositório é github page com um currículo mostrando minhas pró-eficiências em linguagem de programação e ferramentas
+
+* Implantação da estrutura HTML
+* Criação das tabelas de conhecimentos
+* Uso de BootStrap
+* Personalização do CSS
+
+#Contato
+<luiztrjunior@hotmail.com>
